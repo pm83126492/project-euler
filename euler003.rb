@@ -1,3 +1,3 @@
 def euler003
-  # codeing
+  # coding
 end
