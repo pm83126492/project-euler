@@ -1,4 +1,5 @@
-#Not yet understood
+#Not yet fully understood , Refer to other people's code
+
 def euler004
  def palindrome?(number)
     number_array = number.abs.to_s.split("")

@@ -1,4 +1,5 @@
-#Not yet understood
+#Not yet fully understood , Refer to other people's code
+
 def euler007
     found = Array.new([ 2 ]) # the first prime number
     num = 1 # current number
